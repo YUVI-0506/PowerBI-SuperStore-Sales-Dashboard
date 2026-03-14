@@ -16,6 +16,13 @@ This project is a Sales Analysis Dashboard created using Microsoft Power BI.
 - Data Visualization
 - Super Store Dataset
 
-## Dashboard Preview
+## Dataset
 
-![Dashboard](superstore-dashboard.png)
+The dataset used in this project is the Super Store Sales dataset which contains information about:
+
+- Orders
+- Sales
+- Profit
+- Ship Mode
+- Category and Sub Category
+- Regional Sales Performance
