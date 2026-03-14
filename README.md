@@ -26,3 +26,7 @@ The dataset used in this project is the Super Store Sales dataset which contains
 - Ship Mode
 - Category and Sub Category
 - Regional Sales Performance
+- 
+## Dashboard Preview
+
+![Dashboard](superstore-dashboard.png)
